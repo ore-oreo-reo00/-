@@ -1,0 +1,41 @@
+.form__group {
+    color: #978b7a;
+    margin-top: 10px;
+    margin-left: 650px;
+    font-family: "IBM Plex Sans JP", sans-serif;
+}
+
+.form__button {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 7.5%;
+    height: 40px;
+    border: none;
+    border-radius: 1px;
+    background: #6d6255;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+input[type="radio"] {
+    accent-color: #6d6255;
+    border-color: #6d6255;
+    transform: scale(1.5);
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 0 5px 30px;
+    position: relative;
+}
+
+input[type="text"] {
+    margin-left: 150px;
+}
+
+input[type="text"] {
+    margin-left: 30px;
+}

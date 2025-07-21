@@ -1,0 +1,30 @@
+.header__inner {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 15px;
+    max-width: 1200px;
+    border-bottom: solid 1px #e0e0e0
+}
+
+.header__logo {
+    text-align: center;
+    color: #978b7a;
+    text-decoration: none;
+    font-weight: normal;
+    font-family: "PT Serif", serif;
+    font-size: 30px;
+}
+
+.contact-form__heading {
+    text-align: center;
+    color: #978b7a;
+    padding: 30px 15px;
+    text-decoration: none;
+    font-weight: normal;
+    font-family: "PT Serif", serif;
+    font-size: 24px;
+}
+
+.label_name {
+    color: #978b7a;
+}
