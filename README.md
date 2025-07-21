@@ -4,7 +4,7 @@
 
 Dockerビルド
 
-1. <a href="git@github.com:ore-oreo-reo00/-.git">gitgithub.com:ore-oreo-reo00/-.git</a>
+1. <a href="git@github.com:ore-oreo-reo00/-.git">gitg@ithub.com:ore-oreo-reo00/-.git</a>
 2. docker-compose up -d --build
 
 ＊MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください。
@@ -26,5 +26,5 @@ Laravel環境構築
 
 <h2>URL</h2>
 
-・開発環境：<a href="http://localhost/">http://localhost/</a>
+・開発環境：<a href="http://localhost/">http://localhost/</a><br/>
 ・phpMyAdmin：<a href="http://localhost:8080/">http://localhost:8080/</a>
