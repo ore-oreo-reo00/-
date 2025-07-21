@@ -4,7 +4,7 @@
 
 Dockerビルド
 
-1. <a href="https://github.com/ore-oreo-reo00/-">git@github.com:ore-oreo-reo00/-.git</a>
+1. <a href="https://github.com/ore-oreo-reo00/-"><foo>git</foo>@github.com:ore-oreo-reo00/-.git</a>
 2. docker-compose up -d --build
 
 ＊MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください。
