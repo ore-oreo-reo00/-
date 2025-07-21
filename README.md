@@ -20,9 +20,9 @@ Laravel環境構築
 
 <h2>使用技術</h2>
 
-・PHP 8.3.6
-・Laravel 10.0
-・MySQL 8.0
+・PHP 8.2.27<br/>
+・Laravel 10.0<br/>
+・MySQL 8.2.27
 
 <h2>URL</h2>
 
