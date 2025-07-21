@@ -28,3 +28,6 @@ Laravel環境構築
 
 ・開発環境：<a href="http://localhost/">http://localhost/</a><br/>
 ・phpMyAdmin：<a href="http://localhost:8080/">http://localhost:8080/</a>
+
+<h1>※分からなくてほとんど出来ていません<h1>
+送り方が合ってるかも分からないし、これを送ってちゃんと見れるのかも分かりません
